@@ -1,2 +1,3 @@
 # zapprapido
-Página de preselll para assinatura mensal de R$ 87
+
+O arquivo index.html, é uma páginal da presell para assinatura normal de R$ 87/mês.
